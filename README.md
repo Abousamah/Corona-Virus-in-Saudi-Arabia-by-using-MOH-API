@@ -10,6 +10,6 @@ to help develpers to use the parsed data with thier application <br>
 <img src="https://github.com/Rooman77/Corona-Virus-in-Saudi-Arabia-by-using-MOH-API/blob/master/MAPreview.JPG"/>
 
 
-## Review the data in a chart
+## Review the daily infection in a chart
 
 <img src="https://github.com/Rooman77/Corona-Virus-in-Saudi-Arabia-by-using-MOH-API/blob/master/ReviewChart.png"/>
